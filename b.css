@@ -1,0 +1,12 @@
+header{
+    background-color: black;
+    color: red;
+    padding: 2rem;
+}
+body{
+    color: red;
+}
+img{
+    width: 15rem;
+    padding-left: 10rem;
+}
